@@ -86,6 +86,7 @@ public class BioBuzzStarterBotTeleop extends OpMode {
     // STUDENT STEP 1: Add a double field here to remember the selected drive speed.
     // Use a multiplier from 0.0 to 1.0. Start at 0.25 (25% power).
     // A field remembers the selection between loops; do not reset it inside loop().
+    // let's use the variable name driveSpeed
 
     // Create a variable to set to the intake.
     double intakePower;
